@@ -1,12 +1,23 @@
 # Arcade Game Project
 
 * [Description](#Description)
+* [Instructions](#Instructions)
 * [Rules](#Rules)
 * [Links](#Links)
 
 ## Description
 
 Arcade Game Project is an interactive game that player wins when reach the water by avoiding collisions with bugs (enemies).
+
+## Instructions
+
+To load the Arcade Game you have to follow this steps:
+1. open https://github.com/iamtamila/iamtamila.github.io 
+2. Click on "Clone or Download" button;
+3. Choose "Download ZIP" and save file to your PC;
+4. Open "index.html" in your browser;
+5. Enjoy the Arcade Game!
+
 
 ## Rules
 
